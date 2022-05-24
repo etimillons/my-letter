@@ -1,0 +1,40 @@
+.body{
+color: aqua;
+}
+
+.header{
+    border: 1px solid blueviolet;
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    height: 50px;
+}
+
+.container{
+    border: 1px solid blue;
+}
+
+.project{
+    border: 1px solid royalblue;
+    display: flex;
+}
+
+
+.prof_img {
+    height: 250px;
+    width: 200px;
+    background-color: brown;
+   position: absolute;
+   left: 20px;
+   z-index: -1;
+}
+
+.profile {
+    width: 50%;
+}
+
+.img_div {
+    width: 600px;
+    margin: auto;
+}
+
